@@ -8,7 +8,7 @@
 ## This is an `<h2>` header
 ###### This is an `<h6>` header, which is the smallest
 
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 <!---
 enochWuuu/enochWuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
